@@ -25,8 +25,3 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-<p style="display: inline-flex; align-items: center; gap: 6px; margin: 0;">
-  <img src="https://img.shields.io/badge/i code in my underwear-blue?style=for-the-badge" alt="underwear" style="height: 18px;" />
-  <span style="font-size: 1.0em; line-height: 1;">🩲</span>
-</p>
