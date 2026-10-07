@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 <p style="display: inline-flex; align-items: center; gap: 6px; margin: 0;">
-  <img src="https://img.shields.io/badge/i code in my underwear-blue?style=for-the-badge" alt="underwear" style="height: 56px;" />
-  <span style="font-size: 3.6em; line-height: 1;">🩲</span>
+  <img src="https://img.shields.io/badge/i code in my underwear-blue?style=for-the-badge" alt="underwear" style="height: 18px;" />
+  <span style="font-size: 1.0em; line-height: 1;">🩲</span>
 </p>
