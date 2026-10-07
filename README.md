@@ -32,3 +32,17 @@ Here are some ideas to get you started:
 [![Matrix](https://img.shields.io/badge/Matrix-000000?style=for-the-badge&logo=matrix&logoColor=white)](https://matrix.to/#/@angad:mozilla.org)
 [![X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/angaddsinghh)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@angadddd)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:angadsingh0@proton.me)
+
+<h2>featured projects</h2>
+
+[![Galaxy News](https://img.shields.io/badge/Galaxy_News-6B46C1?style=for-the-badge&logo=rss&logoColor=white)](https://alleycoders.github.io/galaxy-news/)
+
+<h2>info</h2>
+
+[![My Life](https://img.shields.io/badge/MY_LIFE-FAILING-critical?style=for-the-badge&logo=doomemacs&logoColor=white)](https://github.com)
+
+<h2>visit my websites</h2>
+
+[![Website](https://img.shields.io/badge/angaddsinghh.github.io-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://angaddsinghh.github.io)
+[![Website](https://img.shields.io/badge/alleycoders.github.io-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://alleycoders.github.io)
