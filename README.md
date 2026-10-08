@@ -44,7 +44,6 @@ Here are some ideas to get you started:
 [![My Life](https://img.shields.io/badge/MY_LIFE-FAILING-critical?style=for-the-badge&logo=doomemacs&logoColor=white)](https://github.com)
 [![sanity check](https://img.shields.io/badge/sanity-segfault-critical?style=for-the-badge&logo=linux&logoColor=white)]()
 [![sleep schedule](https://img.shields.io/badge/sleep%20schedule-undefined-important?style=for-the-badge&logo=gnome&logoColor=white)]()
-[![tech debt](https://img.shields.io/badge/tech%20debt-higher%20than%20my%20grades-critical?style=for-the-badge&logo=adafruit&logoColor=white)]()
 
 <h2>check me out on</h2>
 
