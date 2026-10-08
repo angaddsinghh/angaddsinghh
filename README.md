@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 <h2>featured projects</h2>
 
 [![Galaxy News](https://img.shields.io/badge/Galaxy_News-6B46C1?style=for-the-badge&logo=rss&logoColor=white)](https://alleycoders.github.io/galaxy-news/)
+[![Dotfiles](https://img.shields.io/badge/Dotfiles-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/angaddsinghh/dotfiles)
 
 <h2>info</h2>
 
