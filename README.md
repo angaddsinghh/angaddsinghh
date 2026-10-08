@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>angad singh</h1>
+<h1>yo its avyrik</h1>
 
 <h2>i can code in</h2> 
 
