@@ -45,6 +45,15 @@ Here are some ideas to get you started:
 [![sanity check](https://img.shields.io/badge/sanity-segfault-critical?style=for-the-badge&logo=linux&logoColor=white)]()
 [![sleep schedule](https://img.shields.io/badge/sleep%20schedule-undefined-important?style=for-the-badge&logo=gnome&logoColor=white)]()
 
+<h2>tech stack</h2>
+
+[![FISH](https://img.shields.io/badge/FISH-%23000000.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://fishshell.com/)
+[![NixOS](https://img.shields.io/badge/NixOS-%235277C3.svg?style=for-the-badge&logo=nixos&logoColor=white)](https://nixos.org/)
+[![macOS](https://img.shields.io/badge/macOS-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos/)
+[![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io/)
+[![Hyprland](https://img.shields.io/badge/Hyprland-%2300CCFF.svg?style=for-the-badge&logo=hyprland&logoColor=white)](https://hypr.land/)
+[![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)](https://android.com/)
+
 <h2>check me out on</h2>
 
 [![Website](https://img.shields.io/badge/angaddsinghh.github.io-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://angaddsinghh.github.io)
