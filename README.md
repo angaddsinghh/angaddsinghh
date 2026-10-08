@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/avyriksgroup)
 [![Matrix](https://img.shields.io/badge/Matrix-000000?style=for-the-badge&logo=matrix&logoColor=white)](https://matrix.to/#/@angad:mozilla.org)
-[![X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/avyrik)
+[![X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/avyrik_)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@avyrik)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:angadsingh0@proton.me)
 
