@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 [![sleep schedule](https://img.shields.io/badge/sleep%20schedule-undefined-important?style=for-the-badge&logo=gnome&logoColor=white)]()
 [![tech debt](https://img.shields.io/badge/tech%20debt-higher%20than%20my%20grades-critical?style=for-the-badge&logo=adafruit&logoColor=white)]()
 
-<h2>visit my websites</h2>
+<h2>check me out on</h2>
 
 [![Website](https://img.shields.io/badge/angaddsinghh.github.io-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://angaddsinghh.github.io)
 [![Website](https://img.shields.io/badge/alleycoders.github.io-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://alleycoders.github.io)
