@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 [![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io/)
 [![Hyprland](https://img.shields.io/badge/Hyprland-%2300CCFF.svg?style=for-the-badge&logo=hyprland&logoColor=white)](https://hypr.land/)
 [![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)](https://android.com/)
+[![Firefox](https://img.shields.io/badge/Firefox-%23FF7139.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://www.mozilla.org/firefox/)
 
 <h2>check me out on</h2>
 
