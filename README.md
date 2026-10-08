@@ -43,9 +43,6 @@ Here are some ideas to get you started:
 
 [![My Life](https://img.shields.io/badge/MY_LIFE-FAILING-critical?style=for-the-badge&logo=doomemacs&logoColor=white)](https://github.com)
 [![sanity check](https://img.shields.io/badge/sanity-segfault-critical?style=for-the-badge&logo=linux&logoColor=white)]()
-[![caffeine levels](https://img.shields.io/badge/caffeine-0mg-critical?style=for-the-badge&logo=ko-fi&logoColor=white)]()
-[![git commit messages](https://img.shields.io/badge/git%20messages-fixing%20stuff%20because%20i%20broke%20it-orange?style=for-the-badge&logo=git&logoColor=white)]()
-[![stack overflow](https://img.shields.io/badge/stack%20overflow-ctrl%2Bc%20%2F%20ctrl%2Bv-blue?style=for-the-badge&logo=stackoverflow&logoColor=white)]()
 [![sleep schedule](https://img.shields.io/badge/sleep%20schedule-undefined-important?style=for-the-badge&logo=gnome&logoColor=white)]()
 [![tech debt](https://img.shields.io/badge/tech%20debt-higher%20than%20my%20grades-critical?style=for-the-badge&logo=adafruit&logoColor=white)]()
 
