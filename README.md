@@ -42,7 +42,3 @@ Here are some ideas to get you started:
 <h3>avyrik@avyrikspc:~$ cd ~/.config/ && cat icancodein.txt
   
 javascript, html, css, java, python, c, c++, rust, dart</h3>
-
-<h3>avyrik@avyrikspc:~$ cat mybio.txt
-
-pushing to main in my underwear at 3am</h3>
