@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@avyrik)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:angadsingh0@proton.me)
 [![Website](https://img.shields.io/badge/avyrik.github.io-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://avyrik.github.io)
-[![Website](https://img.shields.io/badge/alleycoders.github.io-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://alleycoders.github.io)
 
 <div align="left">
 
