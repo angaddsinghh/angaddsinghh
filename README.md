@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:angadsingh0@proton.me)
 [![Website](https://img.shields.io/badge/avyrik.github.io-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://avyrik.github.io)
 
-<div align="left">
-
 <h2>featured projects</h2>
 
 [![Galaxy News](https://img.shields.io/badge/Galaxy_News-6B46C1?style=for-the-badge&logo=rss&logoColor=white)](https://alleycoders.github.io/galaxy-news/)
@@ -39,6 +37,4 @@ Here are some ideas to get you started:
 [![sanity check](https://img.shields.io/badge/sanity-segfault-critical?style=for-the-badge&logo=linux&logoColor=white)]()
 [![sleep schedule](https://img.shields.io/badge/sleep%20schedule-undefined-important?style=for-the-badge&logo=gnome&logoColor=white)]()
 
-<h3>avyrik@avyrikspc:~$ cd ~/.config/ && cat icancodein.txt
-  
-javascript, html, css, java, python, c, c++, rust, dart</h3>
+<div align="left">
