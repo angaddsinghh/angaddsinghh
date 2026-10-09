@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/avyrik/avyrik/refs/heads/main/banner.png" width="100%" />
+
 <h1>yo its avyrik</h1>
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/avyriksgroup)
